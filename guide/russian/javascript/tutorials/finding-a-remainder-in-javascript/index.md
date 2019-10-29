@@ -1,6 +1,6 @@
 ---
 title: Finding a Remainder in JavaScript
-localeTitle: Поиск остатка в JavaScript
+localeTitle: Поиск остатка от деления на JavaScript
 ---
 Оператор _остатка_ `%` дает остаток от деления двух чисел.
 
