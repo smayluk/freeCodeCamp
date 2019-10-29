@@ -1,6 +1,6 @@
 ---
 title: Iterate with JavaScript While Loops
-localeTitle: Итерации с помощью JavaScript, в то время как циклы
+localeTitle: Итерации на JavaScript, с использованием циклов
 ---
 Другой тип цикла JavaScript называется `while loop` потому что он работает, `while` что-то истинно, и останавливается, когда что-то перестает быть истинным.
 ```
