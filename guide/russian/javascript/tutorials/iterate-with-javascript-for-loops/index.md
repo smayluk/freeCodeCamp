@@ -1,6 +1,6 @@
 ---
 title: Iterate with JavaScript for Loops
-localeTitle: Итерация с JavaScript для циклов
+localeTitle: Итерация на JavaScript для циклов
 ---
 Наиболее распространенный тип цикла JavaScript называется `for loop` , поскольку он работает `for` определенного количества времени.
 ```
